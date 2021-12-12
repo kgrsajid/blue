@@ -1,42 +1,29 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(MyApp());
+// screens
+import 'package:material_kit_flutter/screens/home.dart';
+import 'package:material_kit_flutter/screens/profile.dart';
+import 'package:material_kit_flutter/screens/settings.dart';
+import 'package:material_kit_flutter/screens/components.dart';
+import 'package:material_kit_flutter/screens/onboarding.dart';
+import 'package:material_kit_flutter/screens/pro.dart';
 
-class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
+void main() => runApp(MaterialKitPROFlutter());
+
+class MaterialKitPROFlutter extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      // Application name
-      title: 'Flutter Hello World',
-      // Application theme data, you can set the colors for the application as
-      // you want
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      // A widget which will be started on application startup
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
-    );
-  }
-}
-
-class MyHomePage extends StatelessWidget {
-  final String title;
-
-  const MyHomePage({required this.title});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        // The title text which will be shown on the action bar
-        title: Text(title),
-      ),
-      body: Center(
-        child: Text(
-          'Hello, World!',
-        ),
-      ),
-    );
+        title: "Material Kit PRO Flutter",
+        debugShowCheckedModeBanner: false,
+        initialRoute: "/onboarding",
+        routes: <String, WidgetBuilder>{
+          "/onboarding": (BuildContext context) => new Onboarding(),
+          "/pro": (BuildContext context) => new Pro(),
+          "/home": (BuildContext context) => new Home(),
+          "/components": (BuildContext context) => new Components(),
+          "/profile": (BuildContext context) => new Profile(),
+          "/settings": (BuildContext context) => new Settings(),
+        });
   }
 }
