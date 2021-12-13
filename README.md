@@ -1,164 +1,133 @@
-# [Material Kit Pro Flutter](https://creativetimofficial.github.io/material-kit-pro-flutter) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Start%20Your%20Development%20With%20A%20Badass%20Flutter%20app%20inspired%20by%20Material%20Design.%0Ahttps%3A//demos.creative-tim.com/material-kit-pro-flutter/)
-
-
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-kit-flutter.svg?style=flat)](https://github.com/creativetimofficial/material-kit-flutter/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-kit-flutter.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-kit-flutter/issues?q=is%3Aissue+is%3Aclosed)
-
-
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-flutter/opt_mk_flutter_thumbnail.jpg)
-
-Material Kit Flutter is a premium mobile UI template built with Google's [Flutter](https://flutter.dev/) allowing you to create powerful and beautiful mobile applications.. We have redesigned all the usual components in order to make it look like Google Design System, minimalistic and easy to use.
-
-Start your development with a badass material UI Kit for Flutter inspired by Material Design. If you like Google's Material Design, you will love this flutter kit! It features a huge number of components and screens built to fit together and look amazing. 
-
-### FULLY CODED COMPONENTS
-
-Material Kit Flutter features over 200 variations of components like buttons, inputs, cards, navigations etc, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify inside our theme file.
-
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. We wanted the design process to be seamless, so switching from image to the real page is very easy to do.
-
-### Components & Cards
-Material Kit Flutter comes packed with a large number of components and cards. Putting together a mobile app has never been easier than matching together different components. From the profile screen to a fully working shopping cart, you can easily customise and build your screens. We have created multiple options for you to put together and customise into pixel perfect screens. 
-
-View [ all components/cards here](https://demos.creative-tim.com/material-kit-flutter/presentation.html#cards).
-
-### Example Screens
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example screens. From onboarding screens to e-commerce or discover screen, you will be able to quickly set up the basic structure for your Flutter mobile project. 
-
-View [all screens here](https://demos.creative-tim.com/material-kit-flutter/presentation.html#screens).
-
-
-Let us know your thoughts below. And good luck with development!
-
-
-## Table of Contents
-
-* [Versions](#versions) 
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [OS Support](#os-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
+![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
 
 
 
-## Demo
+# BlackHole
 
-- [Start page](https://demos.creative-tim.com/material-kit-flutter)
+Awesome Music Player made with Flutter!
 
+[![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/Sangwan5688/BlackHole) ![Downloads](https://img.shields.io/github/downloads/Sangwan5688/BlackHole/total)
+[![Build](https://github.com/Sangwan5688/BlackHole/actions/workflows/flutter.yml/badge.svg)](https://github.com/Sangwan5688/BlackHole/actions/workflows/flutter.yml)
+[![Translation-Status](https://hosted.weblate.org/widgets/blackhole/-/translations/svg-badge.svg)](https://hosted.weblate.org/engage/blackhole/)
 
+### Dont forget to :star: the repo
 
-## Quick start
+[![GitHub stars](https://img.shields.io/github/stars/Sangwan5688/BlackHole.svg?style=social&label=Star)](https://github.com//Sangwan5688/BlackHole) ![GitHub forks](https://img.shields.io/github/forks/Sangwan5688/BlackHole.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/Sangwan5688.svg?style=social&label=Follow)
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/material-kit-flutter)
+## Download
 
+[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
+     alt="Get it on IzzyDroid"
+     height="100">](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="100">](https://f-droid.org/packages/com.shadow.blackhole/)
 
-## Documentation
-The documentation for the Material Kit Flutter is hosted at our [website](https://demos.creative-tim.com/material-kit-flutter/docs/).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
+     alt="Download from GitHub"
+     height="60">](https://github.com/Sangwan5688/BlackHole/releases)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"
+     alt="Join Telegram Channel"
+     height="60">](https://t.me/blackhole_official)
 
+## Translations
 
-## File Structure
-Within the download you'll find the following directories and files:
+- [Spanish :es:](/README.ES.md)
+- [Russian :ru:](/README.RU.md)
+- [French :fr:](/README.FR.md)
+
+[Translate App on Weblate](https://hosted.weblate.org/projects/blackhole/translations/)
+
+## Features
+
+* Best Streaming Quality (320kbps aac)
+* Song, Album, Artist and Playlist Search
+* Language Specific Promoted Playlists
+* Trending Songs
+* Artist and Genre Radios
+* Support 15+ music languages
+* Local and Global Top Spotify songs
+* Add Songs to Favorite
+* Playlists support
+* Import Playlists from Spotify & YouTube
+* Import/Export Playlists as JSON File
+* Share Playlists
+* Sleep timer
+* Lyrics Support
+* Queue Management
+* Listening history record
+* Dark mode / accent color
+* Custom Gradients and other Theme options
+* Supports Portrait as well as Landscape mode
+* Download for offline play (320kbps with ID3 tags)
+* Play Online as well as Offline Songs
+* Tag Editing Support
+* Trending Search Results
+* YouTube Search Support
+* Promoted Youtube Playlists
+* Play videos as audio
+* Auto Song Recommendations
+* Inbuilt Equalizer
+* Backup & Restore
+* Auto Update Check
+* Cache support
+* No Subscription
+* No Ads
+
+and much more...
+Check it yourself :)
+
+## Screenshots
+<img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
+
+## License
+```
+Copyright © 2021 Ankit Sangwan
+
+BlackHole is free software licensed under GPL v3.0.
+You can redistribute and/or modify it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+BlackHole is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.
+```
+[View License](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE)
+
+## Building from Source
+
+1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+2. Fetch latest source code from master branch.
 
 ```
-.
-├── README.md
-├── android
-├── assets
-├── build
-├── ios
-├── lib
-│   ├── constants
-│   │   ├── Images.dart
-│   │   └── Theme.dart
-│   ├── main.dart
-│   ├── screens
-│   │   ├── components.dart
-│   │   ├── home.dart
-│   │   ├── onboarding.dart
-│   │   ├── pro.dart
-│   │   ├── profile.dart
-│   │   ├── settings.dart
-│   └── widgets
-│       ├── card-category.dart
-│       ├── card-horizontal.dart
-│       ├── card-shopping-cart.dart
-│       ├── card-shopping.dart
-│       ├── card-small.dart
-│       ├── card-square.dart
-│       ├── drawer-tile.dart
-│       ├── drawer.dart
-│       ├── input.dart
-│       ├── navbar.dart
-│       ├── photo-album.dart
-│       ├── slider-product.dart
-│       └── table-cell.dart
-├── material_kit_pro_flutter.iml
-├── pubspec.lock
-└── pubspec.yaml
+git clone https://github.com/Sangwan5688/BlackHole.git
 ```
 
+3. Run the app with Android Studio or VS Code. Or the command line:
 
-## OS Support
+```
+flutter pub get
+flutter run
+```
 
-At present, we officially aim to support the last two versions of the following operating systems:
+## Contribute
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/ct-material-kit-pro-react-native/master/assets/android-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-flutter)[<img src="https://raw.githubusercontent.com/creativetimofficial/ct-material-kit-pro-react-native/master/assets/apple-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-kit-flutter)
+Contributions are welcome. Please read our [contributing guidelines](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) before contributing.
 
+## Facing any Issue?
 
+Have a look at some [common Issues](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
 
-## Resources
-- Demo: <https://demos.creative-tim.com/material-kit-flutter>
-- Download Page: <https://www.creative-tim.com/product/material-kit-flutter>
-- Documentation: <https://demos.creative-tim.com/material-kit-flutter/docs>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-kit-flutter/issues)
-- [Material Kit](https://www.creative-tim.com/product/material-kit?ref=mkprn-readme) - For Front End Development
+## Want to test Beta Versions? Need help??
 
-## Reporting Issues
+You can join our [Telegram Channel](https://t.me/blackhole_official) or [Telegram Group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9), if you have any query, or need help with something as well as to get beta updates of the project.
 
-We use GitHub Issues as the official bug tracker for the Material Kit Flutter. Here are some advices for our users that want to report an issue:
+## Liked my work?
 
-1. Make sure that you are using the latest version of the Material Kit Flutter.
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+<a href="https://www.buymeacoffee.com/ankitsangwan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
+## What's New
 
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
-
-
-
-## Licensing
-
-- Copyright 2020 Creative Tim (https://www.creative-tim.com/)
-
-- Creative Tim [license](https://www.creative-tim.com/license)
-
-
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/bootstrap-themes) from Creative Tim
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial>
-
+To read full changelog visit the [wiki page](https://github.com/Sangwan5688/BlackHole/wiki/Changelog)
